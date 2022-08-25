@@ -1,6 +1,6 @@
-# reshare
+## Reshare - Instagram &amp; Twitter
 
-Elanthingal Chandrasekaran operates the Reshare - Instagram &amp; Twitter website, which provides the SERVICE.
+Elanthingal Chandrasekaran operates the Reshare - Instagram &amp; Twitter Mobile Application, which provides the SERVICE.
 
 This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service, the Reshare - Instagram &amp; Twitter website.
 
